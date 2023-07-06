@@ -1,8 +1,7 @@
 app link:- https://play.google.com/store/apps/details?id=com.tariqmonowar.prottaborton
 # প্রত্যাবর্তন
 ## 
-সম্পাদনাঃ আরিফ আজাদ
-প্রকাশনীঃ সমকালীন প্রকাশন
+প্রকাশনীঃ সমকালীন প্রকাশন (আরিফ আজাদ)
 ## 
 ![2dfgdh](https://github.com/Tariq-Monowar/prottaborton/assets/101199109/78881ba7-a2b8-41ca-82bf-8df5438d2fed)
 ## 
@@ -13,5 +12,4 @@ app link:- https://play.google.com/store/apps/details?id=com.tariqmonowar.protta
 ![sddddsdfsfsdfg](https://github.com/Tariq-Monowar/prottaborton/assets/101199109/af4ddf7e-a993-448a-b906-a892b352853c)
 ## 
 ![sddddsddsd](https://github.com/Tariq-Monowar/prottaborton/assets/101199109/09eef82d-f5c9-45e7-b548-5ff7427f4615)
-## 
-![Untitled-2-icon](https://github.com/Tariq-Monowar/prottaborton/assets/101199109/e4762e48-fbf7-4d86-9e3c-777e402f036a)
+
